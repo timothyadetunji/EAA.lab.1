@@ -1,0 +1,2 @@
+* * * * * /home/oracle/monitor.sh  100
+
