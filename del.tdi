@@ -1,0 +1,4 @@
+user 'tdi' do
+	action :remove
+end
+	
